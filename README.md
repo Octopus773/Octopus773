@@ -2,7 +2,7 @@
 Drawing credits goes to : [Louis Davis](https://dribbble.com/lwdavisdesigns/)
 # Hi curious profile viewer 👋
 
-I'm Clément a 20yo guy passionate about Software Architecture and it's magic
+I'm Clément a 20yo guy passionate about Software Architecture, Programming, Star Wars and all their magic
 
 ### My Projects
   - Comsquare, A C++ SNES Emultor
