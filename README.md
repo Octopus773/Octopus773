@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi curious profile viewer 👋
 
-<!--
-**Octopus773/Octopus773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Clément a 20yo guy passionate about Software Architecture and it's magic
 
-Here are some ideas to get you started:
+### My Projects
+  - Comsquare, A C++ SNES Emultor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main technos
+  - C/C++
+  - Python
+  - ReactJS
+  - PHP
+  - x86 asm (yeah really)
+
+### Want i want to do
+  - Server experiments with my Raspberri PI
+  - Deep Learning Stuff
+  - Discover Rust
+
+### ToDo list
+  - [x] Create README.md
+  - [ ] Work on the projects themselves
