@@ -1,3 +1,5 @@
+![My epic banner](assets/banner.png)
+Drawing credits goes to : [Louis Davis](https://dribbble.com/lwdavisdesigns/)
 # Hi curious profile viewer 👋
 
 I'm Clément a 20yo guy passionate about Software Architecture and it's magic
