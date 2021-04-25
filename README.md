@@ -4,6 +4,7 @@ I'm Clément a 20yo guy passionate about Software Architecture and it's magic
 
 ### My Projects
   - Comsquare, A C++ SNES Emultor
+  - Lily, An handy lib to manage linked lists in C (Epitech norm compliant)
 
 ### Main technos
   - C/C++
