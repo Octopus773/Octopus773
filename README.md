@@ -22,6 +22,11 @@ I'm Clément a 20yo guy passionate about Software Architecture, Programming, Sta
   - Deep Learning Stuff
   - Discover Rust
 
+### Quick Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octopus773&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### ToDo list
   - [x] Create README.md
   - [ ] Work on the projects themselves
