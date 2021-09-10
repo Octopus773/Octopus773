@@ -26,6 +26,8 @@ I'm Clément a 20yo guy passionate about Software Architecture, Programming, Sta
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octopus773&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=Octopus773&color=orange)
+
 
 ### ToDo list
   - [x] Create README.md
