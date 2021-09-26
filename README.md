@@ -1,4 +1,8 @@
-<cneter>![Epic Gally](assets/gally.jpg)</center>
+
+<p align="center">
+  <img src="assets/gally.jpg" alt="Epic Gally" height=500 />
+</p>
+
 
 Source: GUNNM
 # Hi curious profile viewer 👋
