@@ -1,17 +1,19 @@
-![My epic banner](assets/banner.png)
-Drawing credits goes to : [Louis Davis](https://dribbble.com/lwdavisdesigns/)
+<cneter>![Epic Gally](assets/gally.jpg)</center>
+
+Source: GUNNM
 # Hi curious profile viewer 👋
 
 I'm Clément a 20yo guy passionate about Software Architecture, Programming, Star Wars and all their magic
 
 ### Some of my cool Projects
+  - [Bomberman](https://github.com/AnonymusRaccoon/Bomberman), A complete bomberman game with heights, AI in lua, and shaders
   - [Comsquare](https://github.com/AnonymusRaccoon/ComSquare), A C++ SNES Emultor
   - [Wanda-Vision](https://github.com/Octopus773/Wanda-Vision), Program capable of loading dynamic libraries with a high level of abstraction, in order to play arcade game (ie: Pacman)
   - [Lily](https://github.com/Octopus773/lily), An handy lib to manage linked lists in C (Epitech norm compliant)
-  - [Forecasting village](https://github.com/AnonymusRaccoon/ForecastingVillage), An isometric RPG made in C using Gamacon.
 
 ### Main technos
-  - C/C++
+  - C++
+  - C
   - Python
   - ReactJS
   - PHP
@@ -19,8 +21,9 @@ I'm Clément a 20yo guy passionate about Software Architecture, Programming, Sta
 
 ### Want i want to do
   - Server experiments with my Raspberri PI
-  - Deep Learning Stuff
-  - Discover Rust
+  - Computer Vision
+  - Coroutines
+  - Implementing algorithms as a specialized mini lib
 
 ### Quick Stats
 
