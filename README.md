@@ -12,14 +12,14 @@ I'm Clément and I'm passionate about Software Architecture, Programming and Dev
 
 ### Technos
 
-#### Prefered
+#### Preferred
   - C/C++
   - Rust
   - ReactJS
   - Docker, Kubernetes
   - Python
 #### Neutral
-  - JS/TS (Noticebly on back-end stuff)
+  - JS/TS (on back-end)
   - C#
 #### Not my cup of tea
   - Dart (Flutter)
@@ -62,6 +62,21 @@ I'm Clément and I'm passionate about Software Architecture, Programming and Dev
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  </a>
+  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnome.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Gnomelogo.svg" alt="gnome desktop" width="36" height="40"/>
+  </a>
+  <a href="https://getfedora.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" alt="fedora" width="40" height="40"/>
+  </a>
+  <a href="https://manjaro.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="manjro" width="40" height="40"/>
   </a>
 </p>
 
