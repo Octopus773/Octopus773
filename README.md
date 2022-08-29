@@ -25,7 +25,7 @@ I'm Clément and I'm passionate about Software Architecture, Programming and Dev
   - Dart (Flutter)
   - PHP
 
-<h3 align="left">Languages and Tools that I like:</h3>
+<h3 align="left">Languages and Tools that I like to use:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -74,9 +74,6 @@ I'm Clément and I'm passionate about Software Architecture, Programming and Dev
   </a>
   <a href="https://getfedora.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" alt="fedora" width="40" height="40"/>
-  </a>
-  <a href="https://manjaro.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="manjro" width="40" height="40"/>
   </a>
 </p>
 
