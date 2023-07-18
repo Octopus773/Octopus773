@@ -12,18 +12,17 @@ I'm Clément and I'm passionate about Software Architecture, Programming and Dev
 
 ### Technos
 
-#### Preferred
-  - C/C++
+  - C
+  - C++
   - Rust
   - ReactJS
   - Docker, Kubernetes
   - Python
-#### Neutral
-  - JS/TS (on back-end)
-  - C#
-#### Not my cup of tea
-  - Dart (Flutter)
+  - JS/TS
   - PHP
+
+  - C#
+  - Dart (Flutter)
 
 <h3 align="left">Languages and Tools that I like to use:</h3>
 <p align="left"> 
