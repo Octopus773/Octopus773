@@ -80,6 +80,7 @@ I'm Clément and I'm passionate about Software Architecture, Programming and Dev
 ### Want i want to do
   - Computer Vision
   - Front End Design (Web & GTK)
+  - Embedded programming projects
 
 ### Quick Stats
 
