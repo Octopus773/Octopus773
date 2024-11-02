@@ -34,6 +34,3 @@ I'm Clément and I'm passionate about Software Architecture, Programming and Dev
   - Embedded programming projects
 
 ### Quick Stats
-
-![](https://komarev.com/ghpvc/?username=Octopus773&color=orange)
-![](https://hit.yhype.me/github/profile?user_id=56884316)
